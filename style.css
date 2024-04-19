@@ -1,8 +1,3 @@
-body {
-    background-color: cyan;
-
-}
-
 .cabecalho{
     background-color: #000000;
     color: rgb(255, 255, 255);
@@ -28,10 +23,10 @@ body {
     padding: 0;
 }
 
-.texto{
-    margin-top: 50px;
-    padding: 40px;
-    position: relative; 
-    z-index: 2;
+.escola-imagem{
+    width:25%;
 }
 
+.teste{
+    background-color: blue;
+}
