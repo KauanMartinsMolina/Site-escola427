@@ -23,10 +23,24 @@
     padding: 0;
 }
 
+.escola{
+    background-image: linear-gradient(#24B7C7,#5AB78D);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
 .escola-imagem{
     width:25%;
 }
 
-.teste{
-    background-color: blue;
+.escola-conteudo{
+    width: 35%;
+    
+}
+
+.escola-titulo {
+    padding: 24px 0;
 }
