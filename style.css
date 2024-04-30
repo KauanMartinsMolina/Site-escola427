@@ -5,6 +5,10 @@
     justify-content: space-around;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho-imagem{
     width: 30%;
     height: 30%;
@@ -43,4 +47,16 @@
 
 .escola-titulo {
     padding: 24px 0;
+}
+
+.estudante-imagem {
+    width: 120px; 
+}
+
+.estudante-icone {
+    width: 24px;
+}
+
+.estudante-div {
+    text-align: center;
 }
